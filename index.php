@@ -12,9 +12,10 @@
 </head>
 
 <body>
-    <?php
+    <!-- <?php
     include_once 'header.php';
-    ?>
+    ?> -->
+    <link rel="stylesheet" href="">
 
     <h1 class="header">hello kohomada oyata?</h1>
     <p>welcome to my web site!.</p>
@@ -22,6 +23,10 @@
     <?php
     include_once './login.php';
     ?>
+
+    <?php
+    include_once './signUp.php'
+        ?>
 
     <?php
     include_once "./footer.php"
