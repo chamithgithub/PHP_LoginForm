@@ -12,9 +12,9 @@
 </head>
 
 <body>
-    <?php
-    include_once './header.php';
-    ?>
+    <!-- <?php
+    include_once 'header.php';
+    ?> -->
     <section class="vh-100">
         <div class="container py-5 h-100">
             <div class="row d-flex align-items-center justify-content-center h-100">
